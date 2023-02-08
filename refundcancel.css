@@ -1,0 +1,37 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-family: 'Roboto Condensed';
+
+}
+
+.privacypolicy-container{
+    width: 70%;
+    padding: 20px;
+    margin-inline: auto;
+    
+}
+
+.privacypolicyheading{
+    text-align: center;
+    font-weight: 600;
+}
+.privacypolicy-intro{
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+.privacypolicy-point{
+    font-weight: 600;
+}
+.privacypolicy-ul{
+    font-size: 17px;
+    text-align: justify;
+}
+.privacypolicy-passage{
+    font-size: 17px;
+    text-align: justify;
+}
